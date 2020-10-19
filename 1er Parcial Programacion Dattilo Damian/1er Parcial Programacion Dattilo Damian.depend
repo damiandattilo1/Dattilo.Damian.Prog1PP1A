@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603110676 source:c:\users\damia\documents\damian\programacion utn\1er parcial programacion dattilo damian\main.c
+	<stdio.h>
+	<stdlib.h>
+
